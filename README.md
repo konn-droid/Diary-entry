@@ -1,12 +1,12 @@
-#Diary Entry
+# Diary Entry
 This project uses the datetime module in python to automatically fetch the current date and time.
-##Creating an Entry
+## Creating an Entry
 In this feature the user gets to create a new diary entry and it saves automatically with date and time.
 
-##Viewing entries
+## Viewing entries
 In this feature the user gets to view all previous entries made by them.
 
-##Features
+## Features
 - Create new diary entries
 - Automatically record the current date and time
 - View all previously saved entries
